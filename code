@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RGB Gaming Beast - PC Builder Showcase</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #0f0f0f;
+      color: #f5f5f5;
+      line-height: 1.6;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background: #1e1e1e;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .content {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    img {
+      width: 100%;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background: #1c1c1c;
+      margin: 0.5rem 0;
+      padding: 0.8rem;
+      border-radius: 8px;
+    }
+    a.back {
+      display: inline-block;
+      margin: 1rem 0;
+      color: #4ea3ff;
+      text-decoration: none;
+    }
+    a.back:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #111;
+      color: #777;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RGB Gaming Beast</h1>
+  </header>
+
+  <div class="content">
+    <img src="https://i.imgur.com/z4d4kWk.jpg" alt="RGB Gaming Beast">
+    <h2>Build Specs</h2>
+    <ul>
+      <li>GPU: NVIDIA RTX 4090</li>
+      <li>CPU: AMD Ryzen 9 7950X</li>
+      <li>Cooling: Custom Water Cooling with RGB</li>
+      <li>RAM: 64GB DDR5</li>
+      <li>Storage: 2TB NVMe SSD</li>
+      <li>Case: Lian Li O11 Dynamic</li>
+      <li>PSU: 1000W Platinum</li>
+    </ul>
+
+    <a href="index.html" class="back">⬅ Back to Showcase</a>
+  </div>
+
+  <footer>
+    © 2025 PC Builder Showcase
+  </footer>
+</body>
+</html>
